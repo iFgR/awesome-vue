@@ -424,7 +424,7 @@
   - [vue-viewports](https://github.com/scaccogatto/vue-viewports): define your custom viewports and use them in your components
   - [vue-throttle-event](https://github.com/scaccogatto/vue-throttle-event): throttle events based on requestAnimationFrame
   - [vue-input-tag](https://github.com/matiastucci/vue-input-tag) :bookmark:: Vue.js 2.0 Input Tag Component
-  
+  - [vue-dnd2](https://github.com/iFgR/vue-dnd2) A clone of Vue Drag n' Drop now supported by 2.0 version of VueJS.
 - #### i18n
   - [**vue-i18n ★271**](https://github.com/kazupon/vue-i18n): Internationalization plugin by @kazupon <sup>1.0, 2.0-pre-alpha compatible</sup>
   - [vue-localize ★11](https://github.com/vuedev-com/vue-localize): Internationalization plugin for vue.js based applications
